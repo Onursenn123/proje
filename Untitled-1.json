@@ -9,7 +9,7 @@
             "Metin":"İlerici tasarım ve yenilikçi teknolojiler - Audi A3 Sportback.."
         },
         {
-            "Model": "A8",
+            "Araç": "A8",
             "Marka": "AUDİ",
             "poster": "https://thumbsnap.com/i/1wh73yNk.png",
             "videoUrl": "https://thumbsnap.com/i/rSTBYJrd.mp4",
@@ -17,7 +17,7 @@
             "Metin":"Audi A8 ’in arka kısmında yüksek konfora ve ekstra geniş bir alana sahipsiniz."
         },
         {
-            "Model": "Q3",
+            "Araç": "Q3",
             "Marka": "AUDİ",
             "poster": "https://thumbsnap.com/i/LhAidNn9.png",
             "videoUrl": "https://thumbsnap.com/i/8fm7E1Nr.mp4",
@@ -26,7 +26,7 @@
         },
 
         {
-            "Model": "Q8",
+            "Araç": "Q8",
             "Marka": "AUDİ",
             "poster": "https://thumbsnap.com/i/p3XMHH35.png",
             "videoUrl": "https://thumbsnap.com/i/6nbUBwGp.mp4",
